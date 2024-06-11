@@ -1,0 +1,14 @@
+.git
+.vs
+.idea
+.scannerwork
+
+/be/**/[Bb]in
+/be/**/[Oo]bj
+/be/**/packages
+/be/**/*.user
+/be/**/*.pdb
+
+/fe/.npm
+/fe/node_modules
+

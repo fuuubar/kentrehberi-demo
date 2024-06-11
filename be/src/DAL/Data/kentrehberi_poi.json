@@ -1,0 +1,1565 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "kentrehberi_poi.fid--2321b301_18f7d336f0d_2ee4",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.78518077,
+                    36.62157071
+                ]
+            },
+            "geometry_name": "poly",
+            "properties": {
+                "objectid": "geopoi_243",
+                "adi": "SANAYİ CAMİİ",
+                "ng_adi": "SANAYİ CAMİİ SANAYİ CAMİİ sanayi camii Sanayi Camii",
+                "aciklama": "-",
+                "category": 332,
+                "ustkod": 17,
+                "faaliyet_adi": "Cami",
+                "ng_faaliyet_adi": "Cami CAMİ cami Cami",
+                "icon": "07_mosquee.png",
+                "gizlilik": true,
+                "adres": null,
+                "mahalle_id": 24,
+                "yol_id": null,
+                "telefon_no": "-",
+                "kisi": "-",
+                "onemliyerler": "07_mosquee",
+                "geo_durum": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "kentrehberi_poi.fid--2321b301_18f7d336f0d_2ee5",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.99766847,
+                    36.54964606
+                ]
+            },
+            "geometry_name": "poly",
+            "properties": {
+                "objectid": "geopoi_247",
+                "adi": "KILLILAR CAMİİ",
+                "ng_adi": "KILLILAR CAMİİ KILLILAR CAMİİ kıllılar camii Kıllılar Camii",
+                "aciklama": "-",
+                "category": 332,
+                "ustkod": 17,
+                "faaliyet_adi": "Cami",
+                "ng_faaliyet_adi": "Cami CAMİ cami Cami",
+                "icon": "07_mosquee.png",
+                "gizlilik": true,
+                "adres": null,
+                "mahalle_id": 66,
+                "yol_id": 15477,
+                "telefon_no": "-",
+                "kisi": "-",
+                "onemliyerler": "07_mosquee",
+                "geo_durum": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "kentrehberi_poi.fid--2321b301_18f7d336f0d_2ee6",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.99846552,
+                    36.53431652
+                ]
+            },
+            "geometry_name": "poly",
+            "properties": {
+                "objectid": "geopoi_82",
+                "adi": "TERSANE GEMİ MÜZESİ",
+                "ng_adi": "TERSANE GEMİ MÜZESİ TERSANE GEMİ MÜZESİ tersane gemi müzesi Tersane Gemi Müzesi",
+                "aciklama": "-",
+                "category": 288,
+                "ustkod": 3,
+                "faaliyet_adi": "Tersane",
+                "ng_faaliyet_adi": "Tersane TERSANE tersane Tersane",
+                "icon": "museum_industry.png",
+                "gizlilik": true,
+                "adres": null,
+                "mahalle_id": 8,
+                "yol_id": null,
+                "telefon_no": "-",
+                "kisi": "-",
+                "onemliyerler": "museum_industry",
+                "geo_durum": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "kentrehberi_poi.fid--2321b301_18f7d336f0d_2ee7",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.99477301,
+                    36.5455233
+                ]
+            },
+            "geometry_name": "poly",
+            "properties": {
+                "objectid": "geopoi_100",
+                "adi": "FEVZİALAATTİNOĞLU LİSESİ",
+                "ng_adi": "FEVZİALAATTİNOĞLU LİSESİ FEVZİALAATTİNOĞLU LİSESİ fevzialaattinoğlu lisesi Fevzialaattinoğlu Lisesi",
+                "aciklama": "-",
+                "category": 341,
+                "ustkod": 20,
+                "faaliyet_adi": "Lise",
+                "ng_faaliyet_adi": "Lise LİSE lise Lise",
+                "icon": "highschool.png",
+                "gizlilik": true,
+                "adres": null,
+                "mahalle_id": 3,
+                "yol_id": 12019,
+                "telefon_no": "-",
+                "kisi": "-",
+                "onemliyerler": "highschool",
+                "geo_durum": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "kentrehberi_poi.fid--2321b301_18f7d336f0d_2ee8",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.97355704,
+                    36.55505663
+                ]
+            },
+            "geometry_name": "poly",
+            "properties": {
+                "objectid": "geopoi_104",
+                "adi": "4 NOLU NURSEL ÖZKAN AİLE SAĞLIĞI MERKEZİ",
+                "ng_adi": "4 NOLU NURSEL ÖZKAN AİLE SAĞLIĞI MERKEZİ 4 NOLU NURSEL ÖZKAN AİLE SAĞLIĞI MERKEZİ 4 nolu nursel özkan aile sağlığı merkezi 4 Nolu Nursel Özkan Aile Sağlığı Merkezi",
+                "aciklama": "-",
+                "category": 315,
+                "ustkod": 11,
+                "faaliyet_adi": "Sağlık Ocağı",
+                "ng_faaliyet_adi": "Sağlık Ocağı SAĞLIK OCAĞI sağlık ocağı Sağlık Ocağı",
+                "icon": "05_hospital-building_poliklinik.png",
+                "gizlilik": true,
+                "adres": null,
+                "mahalle_id": 10,
+                "yol_id": 2888,
+                "telefon_no": "-",
+                "kisi": "-",
+                "onemliyerler": "05_hospital-building_poliklinik",
+                "geo_durum": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "kentrehberi_poi.fid--2321b301_18f7d336f0d_2ee9",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.0027288,
+                    36.54329127
+                ]
+            },
+            "geometry_name": "poly",
+            "properties": {
+                "objectid": "geopoi_59",
+                "adi": "KAYMAKAMLIK HİZMET BİNASI",
+                "ng_adi": "KAYMAKAMLIK HİZMET BİNASI KAYMAKAMLIK HİZMET BİNASI kaymakamlık hizmet binası Kaymakamlık Hizmet Binası",
+                "aciklama": "-",
+                "category": 483,
+                "ustkod": 62,
+                "faaliyet_adi": "Kaymakamlık",
+                "ng_faaliyet_adi": "Kaymakamlık KAYMAKAMLIK kaymakamlık Kaymakamlık",
+                "icon": "embassy.png",
+                "gizlilik": true,
+                "adres": null,
+                "mahalle_id": 6,
+                "yol_id": 16475,
+                "telefon_no": "-",
+                "kisi": "-",
+                "onemliyerler": "embassy",
+                "geo_durum": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "kentrehberi_poi.fid--2321b301_18f7d336f0d_2eea",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.99840974,
+                    36.54514584
+                ]
+            },
+            "geometry_name": "poly",
+            "properties": {
+                "objectid": "geopoi_251",
+                "adi": "HACIKURA CAMİİ",
+                "ng_adi": "HACIKURA CAMİİ HACIKURA CAMİİ hacıkura camii Hacıkura Camii",
+                "aciklama": "-",
+                "category": 332,
+                "ustkod": 17,
+                "faaliyet_adi": "Cami",
+                "ng_faaliyet_adi": "Cami CAMİ cami Cami",
+                "icon": "07_mosquee.png",
+                "gizlilik": true,
+                "adres": null,
+                "mahalle_id": 12,
+                "yol_id": null,
+                "telefon_no": "-",
+                "kisi": "-",
+                "onemliyerler": "07_mosquee",
+                "geo_durum": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "kentrehberi_poi.fid--2321b301_18f7d336f0d_2eeb",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.00293581,
+                    36.54351877
+                ]
+            },
+            "geometry_name": "poly",
+            "properties": {
+                "objectid": "geopoi_60",
+                "adi": "ATM",
+                "ng_adi": "ATM ATM atm Atm",
+                "aciklama": "-",
+                "category": 295,
+                "ustkod": 5,
+                "faaliyet_adi": "ATM",
+                "ng_faaliyet_adi": "ATM ATM atm Atm",
+                "icon": "atm-2.png",
+                "gizlilik": true,
+                "adres": null,
+                "mahalle_id": 6,
+                "yol_id": 3694,
+                "telefon_no": "-",
+                "kisi": "-",
+                "onemliyerler": "atm-2",
+                "geo_durum": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "kentrehberi_poi.fid--2321b301_18f7d336f0d_2eec",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.96942715,
+                    36.55644563
+                ]
+            },
+            "geometry_name": "poly",
+            "properties": {
+                "objectid": "geopoi_98",
+                "adi": "ALAADDİN KEYKUBAT PARKI",
+                "ng_adi": "ALAADDİN KEYKUBAT PARKI ALAADDİN KEYKUBAT PARKI alaaddin keykubat parkı Alaaddin Keykubat Parkı",
+                "aciklama": "-",
+                "category": 358,
+                "ustkod": 25,
+                "faaliyet_adi": "Park",
+                "ng_faaliyet_adi": "Park PARK park Park",
+                "icon": "forest2.png",
+                "gizlilik": true,
+                "adres": null,
+                "mahalle_id": 10,
+                "yol_id": 13300,
+                "telefon_no": "-",
+                "kisi": "-",
+                "onemliyerler": "forest2",
+                "geo_durum": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "kentrehberi_poi.fid--2321b301_18f7d336f0d_2eed",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.99812442,
+                    36.54160581
+                ]
+            },
+            "geometry_name": "poly",
+            "properties": {
+                "objectid": "geopoi_73",
+                "adi": "KUYULARÖNÜ CAMİİ",
+                "ng_adi": "KUYULARÖNÜ CAMİİ KUYULARÖNÜ CAMİİ kuyularönü camii Kuyularönü Camii",
+                "aciklama": "-",
+                "category": 332,
+                "ustkod": 17,
+                "faaliyet_adi": "Cami",
+                "ng_faaliyet_adi": "Cami CAMİ cami Cami",
+                "icon": "07_mosquee.png",
+                "gizlilik": true,
+                "adres": null,
+                "mahalle_id": 12,
+                "yol_id": 6025,
+                "telefon_no": "-",
+                "kisi": "-",
+                "onemliyerler": "07_mosquee",
+                "geo_durum": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "kentrehberi_poi.fid--2321b301_18f7d336f0d_2eee",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.99635017,
+                    36.54548558
+                ]
+            },
+            "geometry_name": "poly",
+            "properties": {
+                "objectid": "geopoi_105",
+                "adi": "ALANYA LİSESİ",
+                "ng_adi": "ALANYA LİSESİ ALANYA LİSESİ alanya lisesi Alanya Lisesi",
+                "aciklama": "-",
+                "category": 341,
+                "ustkod": 20,
+                "faaliyet_adi": "Lise",
+                "ng_faaliyet_adi": "Lise LİSE lise Lise",
+                "icon": "highschool.png",
+                "gizlilik": true,
+                "adres": null,
+                "mahalle_id": 66,
+                "yol_id": 15477,
+                "telefon_no": "-",
+                "kisi": "-",
+                "onemliyerler": "highschool",
+                "geo_durum": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "kentrehberi_poi.fid--2321b301_18f7d336f0d_2eef",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.00274837,
+                    36.5439703
+                ]
+            },
+            "geometry_name": "poly",
+            "properties": {
+                "objectid": "geopoi_71",
+                "adi": "TARIM İLÇE HAYVANCILIK MÜDÜRLÜĞÜ",
+                "ng_adi": "TARIM İLÇE HAYVANCILIK MÜDÜRLÜĞÜ TARIM İLÇE HAYVANCILIK MÜDÜRLÜĞÜ tarım ilçe hayvancılık müdürlüğü Tarım Ilçe Hayvancılık Müdürlüğü",
+                "aciklama": "-",
+                "category": 460,
+                "ustkod": 62,
+                "faaliyet_adi": "Diğer Resmi Kurumlar",
+                "ng_faaliyet_adi": "Diğer Resmi Kurumlar DİĞER RESMİ KURUMLAR diğer resmi kurumlar Diğer Resmi Kurumlar",
+                "icon": "kurum.png",
+                "gizlilik": true,
+                "adres": null,
+                "mahalle_id": 6,
+                "yol_id": 3694,
+                "telefon_no": "-",
+                "kisi": "-",
+                "onemliyerler": "kurum",
+                "geo_durum": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "kentrehberi_poi.fid--2321b301_18f7d336f0d_2ef0",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.9955153,
+                    36.54515857
+                ]
+            },
+            "geometry_name": "poly",
+            "properties": {
+                "objectid": "geopoi_101",
+                "adi": "ŞEHİTABDULLAH ÜMİT SERCAN ANADOLU LİSESİ",
+                "ng_adi": "ŞEHİTABDULLAH ÜMİT SERCAN ANADOLU LİSESİ ŞEHİTABDULLAH ÜMİT SERCAN ANADOLU LİSESİ şehitabdullah ümit sercan anadolu lisesi Şehitabdullah Ümit Sercan Anadolu Lisesi",
+                "aciklama": "-",
+                "category": 341,
+                "ustkod": 20,
+                "faaliyet_adi": "Lise",
+                "ng_faaliyet_adi": "Lise LİSE lise Lise",
+                "icon": "highschool.png",
+                "gizlilik": true,
+                "adres": null,
+                "mahalle_id": 66,
+                "yol_id": 12446,
+                "telefon_no": "-",
+                "kisi": "-",
+                "onemliyerler": "highschool",
+                "geo_durum": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "kentrehberi_poi.fid--2321b301_18f7d336f0d_2ef1",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.00287281,
+                    36.54265239
+                ]
+            },
+            "geometry_name": "poly",
+            "properties": {
+                "objectid": "geopoi_58",
+                "adi": "ALANYA BELEDİYE BİNASI",
+                "ng_adi": "ALANYA BELEDİYE BİNASI ALANYA BELEDİYE BİNASI alanya belediye binası Alanya Belediye Binası",
+                "aciklama": "-",
+                "category": 454,
+                "ustkod": 62,
+                "faaliyet_adi": "Belediye Hizmet Binası",
+                "ng_faaliyet_adi": "Belediye Hizmet Binası BELEDİYE HİZMET BİNASI belediye hizmet binası Belediye Hizmet Binası",
+                "icon": "01_congress.png",
+                "gizlilik": true,
+                "adres": null,
+                "mahalle_id": 6,
+                "yol_id": 13998,
+                "telefon_no": "4448207",
+                "kisi": "-",
+                "onemliyerler": "01_congress",
+                "geo_durum": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "kentrehberi_poi.fid--2321b301_18f7d336f0d_2ef2",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.12754123,
+                    36.4721082
+                ]
+            },
+            "geometry_name": "poly",
+            "properties": {
+                "objectid": "geopoi_254",
+                "adi": "FATİH SULTAN MEHMET CAMİİ",
+                "ng_adi": "FATİH SULTAN MEHMET CAMİİ FATİH SULTAN MEHMET CAMİİ fatih sultan mehmet camii Fatih Sultan Mehmet Camii",
+                "aciklama": "-",
+                "category": 332,
+                "ustkod": 17,
+                "faaliyet_adi": "Cami",
+                "ng_faaliyet_adi": "Cami CAMİ cami Cami",
+                "icon": "07_mosquee.png",
+                "gizlilik": true,
+                "adres": null,
+                "mahalle_id": 38,
+                "yol_id": 16345,
+                "telefon_no": "-",
+                "kisi": "-",
+                "onemliyerler": "07_mosquee",
+                "geo_durum": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "kentrehberi_poi.fid--2321b301_18f7d336f0d_2ef3",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.00726922,
+                    36.54365091
+                ]
+            },
+            "geometry_name": "poly",
+            "properties": {
+                "objectid": "geopoi_63",
+                "adi": "ATM",
+                "ng_adi": "ATM ATM atm Atm",
+                "aciklama": "-",
+                "category": 295,
+                "ustkod": 5,
+                "faaliyet_adi": "ATM",
+                "ng_faaliyet_adi": "ATM ATM atm Atm",
+                "icon": "atm-2.png",
+                "gizlilik": true,
+                "adres": null,
+                "mahalle_id": 6,
+                "yol_id": 3694,
+                "telefon_no": "-",
+                "kisi": "-",
+                "onemliyerler": "atm-2",
+                "geo_durum": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "kentrehberi_poi.fid--2321b301_18f7d336f0d_2ef4",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.00947258,
+                    36.54404629
+                ]
+            },
+            "geometry_name": "poly",
+            "properties": {
+                "objectid": "geopoi_64",
+                "adi": "ATA TAKSİ",
+                "ng_adi": "ATA TAKSİ ATA TAKSİ ata taksi Ata Taksi",
+                "aciklama": "-",
+                "category": 425,
+                "ustkod": 49,
+                "faaliyet_adi": "Taksi Durağı",
+                "ng_faaliyet_adi": "Taksi Durağı TAKSİ DURAĞI taksi durağı Taksi Durağı",
+                "icon": "kentrehberi.png",
+                "gizlilik": true,
+                "adres": null,
+                "mahalle_id": 6,
+                "yol_id": 3694,
+                "telefon_no": "-",
+                "kisi": "-",
+                "onemliyerler": "kentrehberi",
+                "geo_durum": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "kentrehberi_poi.fid--2321b301_18f7d336f0d_2ef5",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.00958431,
+                    36.54406511
+                ]
+            },
+            "geometry_name": "poly",
+            "properties": {
+                "objectid": "geopoi_65",
+                "adi": "FERHATİYE CAMİİ",
+                "ng_adi": "FERHATİYE CAMİİ FERHATİYE CAMİİ ferhatiye camii Ferhatiye Camii",
+                "aciklama": "-",
+                "category": 332,
+                "ustkod": 17,
+                "faaliyet_adi": "Cami",
+                "ng_faaliyet_adi": "Cami CAMİ cami Cami",
+                "icon": "07_mosquee.png",
+                "gizlilik": true,
+                "adres": null,
+                "mahalle_id": 6,
+                "yol_id": 3694,
+                "telefon_no": "-",
+                "kisi": "-",
+                "onemliyerler": "07_mosquee",
+                "geo_durum": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "kentrehberi_poi.fid--2321b301_18f7d336f0d_2ef6",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.99784895,
+                    36.5417534
+                ]
+            },
+            "geometry_name": "poly",
+            "properties": {
+                "objectid": "geopoi_75",
+                "adi": "ALANYA BLD TURİZM DANIŞMA",
+                "ng_adi": "ALANYA BLD TURİZM DANIŞMA ALANYA BLD TURİZM DANIŞMA alanya bld turizm danışma Alanya Bld Turizm Danışma",
+                "aciklama": "-",
+                "category": 62,
+                "ustkod": 0,
+                "faaliyet_adi": "Resmi Kurumlar",
+                "ng_faaliyet_adi": "Resmi Kurumlar RESMİ KURUMLAR resmi kurumlar Resmi Kurumlar",
+                "icon": "00_moderntower.png",
+                "gizlilik": true,
+                "adres": null,
+                "mahalle_id": 12,
+                "yol_id": 15477,
+                "telefon_no": "-",
+                "kisi": "-",
+                "onemliyerler": "00_moderntower",
+                "geo_durum": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "kentrehberi_poi.fid--2321b301_18f7d336f0d_2ef7",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.9776276,
+                    36.55537742
+                ]
+            },
+            "geometry_name": "poly",
+            "properties": {
+                "objectid": "geopoi_76",
+                "adi": "ALANYA BELEDİYESİ OLİMPİK KAPALI YÜZME HAVUZU",
+                "ng_adi": "ALANYA BELEDİYESİ OLİMPİK KAPALI YÜZME HAVUZU ALANYA BELEDİYESİ OLİMPİK KAPALI YÜZME HAVUZU alanya belediyesi olimpik kapalı yüzme havuzu Alanya Belediyesi Olimpik Kapalı Yüzme Havuzu",
+                "aciklama": "-",
+                "category": 351,
+                "ustkod": 23,
+                "faaliyet_adi": "Havuz",
+                "ng_faaliyet_adi": "Havuz HAVUZ havuz Havuz",
+                "icon": "anchorpier.png",
+                "gizlilik": true,
+                "adres": null,
+                "mahalle_id": 10,
+                "yol_id": 11647,
+                "telefon_no": "+90 242 511 30 70 ",
+                "kisi": "-",
+                "onemliyerler": "anchorpier",
+                "geo_durum": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "kentrehberi_poi.fid--2321b301_18f7d336f0d_2ef8",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.02043363,
+                    36.54363515
+                ]
+            },
+            "geometry_name": "poly",
+            "properties": {
+                "objectid": "geopoi_69",
+                "adi": "ORMAN İŞLETME MÜDÜRLÜĞÜ",
+                "ng_adi": "ORMAN İŞLETME MÜDÜRLÜĞÜ ORMAN İŞLETME MÜDÜRLÜĞÜ orman işletme müdürlüğü Orman Işletme Müdürlüğü",
+                "aciklama": "-",
+                "category": 62,
+                "ustkod": 0,
+                "faaliyet_adi": "Resmi Kurumlar",
+                "ng_faaliyet_adi": "Resmi Kurumlar RESMİ KURUMLAR resmi kurumlar Resmi Kurumlar",
+                "icon": "00_moderntower.png",
+                "gizlilik": true,
+                "adres": null,
+                "mahalle_id": 41,
+                "yol_id": 12225,
+                "telefon_no": "-",
+                "kisi": "-",
+                "onemliyerler": "00_moderntower",
+                "geo_durum": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "kentrehberi_poi.fid--2321b301_18f7d336f0d_2ef9",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.99897526,
+                    36.54159853
+                ]
+            },
+            "geometry_name": "poly",
+            "properties": {
+                "objectid": "geopoi_44",
+                "adi": "TÜRKİYE İŞ BANKASI ATM",
+                "ng_adi": "TÜRKİYE İŞ BANKASI ATM TÜRKİYE İŞ BANKASI ATM türkiye iş bankası atm Türkiye Iş Bankası Atm",
+                "aciklama": "-",
+                "category": 295,
+                "ustkod": 5,
+                "faaliyet_adi": "ATM",
+                "ng_faaliyet_adi": "ATM ATM atm Atm",
+                "icon": "atm-2.png",
+                "gizlilik": true,
+                "adres": null,
+                "mahalle_id": 7,
+                "yol_id": 3644,
+                "telefon_no": "-",
+                "kisi": "-",
+                "onemliyerler": "atm-2",
+                "geo_durum": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "kentrehberi_poi.fid--2321b301_18f7d336f0d_2efa",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.01729013,
+                    36.54591793
+                ]
+            },
+            "geometry_name": "poly",
+            "properties": {
+                "objectid": "geopoi_257",
+                "adi": "DEVELİLER CAMİİ",
+                "ng_adi": "DEVELİLER CAMİİ DEVELİLER CAMİİ develiler camii Develiler Camii",
+                "aciklama": "-",
+                "category": 332,
+                "ustkod": 17,
+                "faaliyet_adi": "Cami",
+                "ng_faaliyet_adi": "Cami CAMİ cami Cami",
+                "icon": "07_mosquee.png",
+                "gizlilik": true,
+                "adres": null,
+                "mahalle_id": 6,
+                "yol_id": 3465,
+                "telefon_no": "-",
+                "kisi": "-",
+                "onemliyerler": "07_mosquee",
+                "geo_durum": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "kentrehberi_poi.fid--2321b301_18f7d336f0d_2efb",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.83532016,
+                    36.59909366
+                ]
+            },
+            "geometry_name": "poly",
+            "properties": {
+                "objectid": "geopoi_260",
+                "adi": "ELOĞLU CAMİİ",
+                "ng_adi": "ELOĞLU CAMİİ ELOĞLU CAMİİ eloğlu camii Eloğlu Camii",
+                "aciklama": "-",
+                "category": 332,
+                "ustkod": 17,
+                "faaliyet_adi": "Cami",
+                "ng_faaliyet_adi": "Cami CAMİ cami Cami",
+                "icon": "07_mosquee.png",
+                "gizlilik": true,
+                "adres": null,
+                "mahalle_id": 94,
+                "yol_id": 6242,
+                "telefon_no": "-",
+                "kisi": "-",
+                "onemliyerler": "07_mosquee",
+                "geo_durum": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "kentrehberi_poi.fid--2321b301_18f7d336f0d_2efc",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.99714513,
+                    36.53938704
+                ]
+            },
+            "geometry_name": "poly",
+            "properties": {
+                "objectid": "geopoi_77",
+                "adi": "ÖZEL HAMDULLAH EMİNPAŞA LİSESİ",
+                "ng_adi": "ÖZEL HAMDULLAH EMİNPAŞA LİSESİ ÖZEL HAMDULLAH EMİNPAŞA LİSESİ özel hamdullah eminpaşa lisesi Özel Hamdullah Eminpaşa Lisesi",
+                "aciklama": "-",
+                "category": 51,
+                "ustkod": 0,
+                "faaliyet_adi": "Özel Eğitim (Kurs) Kurumları ",
+                "ng_faaliyet_adi": "Özel Eğitim (Kurs) Kurumları  ÖZEL EĞİTİM (KURS) KURUMLARI  özel eğitim (kurs) kurumları  Özel Eğitim (Kurs) Kurumları ",
+                "icon": "00_cramschool.png",
+                "gizlilik": true,
+                "adres": null,
+                "mahalle_id": 7,
+                "yol_id": 9569,
+                "telefon_no": "-",
+                "kisi": "-",
+                "onemliyerler": "00_cramschool",
+                "geo_durum": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "kentrehberi_poi.fid--2321b301_18f7d336f0d_2efd",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.03130336,
+                    36.53742596
+                ]
+            },
+            "geometry_name": "poly",
+            "properties": {
+                "objectid": "geopoi_55",
+                "adi": "Milli Egemenlik Stadyumu",
+                "ng_adi": "Milli Egemenlik Stadyumu MİLLİ EGEMENLİK STADYUMU milli egemenlik stadyumu Milli Egemenlik Stadyumu",
+                "aciklama": "-",
+                "category": 356,
+                "ustkod": 23,
+                "faaliyet_adi": "Stadyum",
+                "ng_faaliyet_adi": "Stadyum STADYUM stadyum Stadyum",
+                "icon": "stadium.png",
+                "gizlilik": true,
+                "adres": null,
+                "mahalle_id": 41,
+                "yol_id": 3694,
+                "telefon_no": "4448207",
+                "kisi": "-",
+                "onemliyerler": "stadium",
+                "geo_durum": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "kentrehberi_poi.fid--2321b301_18f7d336f0d_2efe",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.99830277,
+                    36.53645185
+                ]
+            },
+            "geometry_name": "poly",
+            "properties": {
+                "objectid": "geopoi_79",
+                "adi": "KIZILKULE",
+                "ng_adi": "KIZILKULE KIZILKULE kızılkule Kızılkule",
+                "aciklama": "-",
+                "category": 367,
+                "ustkod": 27,
+                "faaliyet_adi": "Tarihi Mekan",
+                "ng_faaliyet_adi": "Tarihi Mekan TARİHİ MEKAN tarihi mekan Tarihi Mekan",
+                "icon": "museum_archeological.png",
+                "gizlilik": true,
+                "adres": null,
+                "mahalle_id": 8,
+                "yol_id": 3909,
+                "telefon_no": "-",
+                "kisi": "-",
+                "onemliyerler": "museum_archeological",
+                "geo_durum": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "kentrehberi_poi.fid--2321b301_18f7d336f0d_2eff",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.00454704,
+                    36.54356697
+                ]
+            },
+            "geometry_name": "poly",
+            "properties": {
+                "objectid": "geopoi_68",
+                "adi": "DSİ",
+                "ng_adi": "DSİ DSİ dsi Dsi",
+                "aciklama": "-",
+                "category": 460,
+                "ustkod": 62,
+                "faaliyet_adi": "Diğer Resmi Kurumlar",
+                "ng_faaliyet_adi": "Diğer Resmi Kurumlar DİĞER RESMİ KURUMLAR diğer resmi kurumlar Diğer Resmi Kurumlar",
+                "icon": "kurum.png",
+                "gizlilik": true,
+                "adres": null,
+                "mahalle_id": 6,
+                "yol_id": null,
+                "telefon_no": "-",
+                "kisi": "-",
+                "onemliyerler": "kurum",
+                "geo_durum": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "kentrehberi_poi.fid--2321b301_18f7d336f0d_2f00",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.99549147,
+                    36.54534928
+                ]
+            },
+            "geometry_name": "poly",
+            "properties": {
+                "objectid": "geopoi_6",
+                "adi": "ALANYA LİSESİ",
+                "ng_adi": "ALANYA LİSESİ ALANYA LİSESİ alanya lisesi Alanya Lisesi",
+                "aciklama": "-",
+                "category": 341,
+                "ustkod": 20,
+                "faaliyet_adi": "Lise",
+                "ng_faaliyet_adi": "Lise LİSE lise Lise",
+                "icon": "highschool.png",
+                "gizlilik": true,
+                "adres": null,
+                "mahalle_id": 66,
+                "yol_id": 12446,
+                "telefon_no": "(0242) 513 10 89",
+                "kisi": "-",
+                "onemliyerler": "highschool",
+                "geo_durum": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "kentrehberi_poi.fid--2321b301_18f7d336f0d_2f01",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.99831193,
+                    36.53385188
+                ]
+            },
+            "geometry_name": "poly",
+            "properties": {
+                "objectid": "geopoi_85",
+                "adi": "TOPHANE MESCİDİ",
+                "ng_adi": "TOPHANE MESCİDİ TOPHANE MESCİDİ tophane mescidi Tophane Mescidi",
+                "aciklama": "-",
+                "category": 332,
+                "ustkod": 17,
+                "faaliyet_adi": "Cami",
+                "ng_faaliyet_adi": "Cami CAMİ cami Cami",
+                "icon": "07_mosquee.png",
+                "gizlilik": true,
+                "adres": null,
+                "mahalle_id": 8,
+                "yol_id": 3486,
+                "telefon_no": "-",
+                "kisi": "-",
+                "onemliyerler": "07_mosquee",
+                "geo_durum": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "kentrehberi_poi.fid--2321b301_18f7d336f0d_2f02",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.1253538,
+                    36.49664936
+                ]
+            },
+            "geometry_name": "poly",
+            "properties": {
+                "objectid": "geopoi_263",
+                "adi": "KILINÇ ARSLAN CAMİİ",
+                "ng_adi": "KILINÇ ARSLAN CAMİİ KILINÇ ARSLAN CAMİİ kılınç arslan camii Kılınç Arslan Camii",
+                "aciklama": "-",
+                "category": 332,
+                "ustkod": 17,
+                "faaliyet_adi": "Cami",
+                "ng_faaliyet_adi": "Cami CAMİ cami Cami",
+                "icon": "07_mosquee.png",
+                "gizlilik": true,
+                "adres": null,
+                "mahalle_id": 31,
+                "yol_id": 1213,
+                "telefon_no": "-",
+                "kisi": "-",
+                "onemliyerler": "07_mosquee",
+                "geo_durum": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "kentrehberi_poi.fid--2321b301_18f7d336f0d_2f03",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.9973057,
+                    36.53505416
+                ]
+            },
+            "geometry_name": "poly",
+            "properties": {
+                "objectid": "geopoi_81",
+                "adi": "ANDIZLI CAMİİ",
+                "ng_adi": "ANDIZLI CAMİİ ANDIZLI CAMİİ andızlı camii Andızlı Camii",
+                "aciklama": "-",
+                "category": 332,
+                "ustkod": 17,
+                "faaliyet_adi": "Cami",
+                "ng_faaliyet_adi": "Cami CAMİ cami Cami",
+                "icon": "07_mosquee.png",
+                "gizlilik": true,
+                "adres": null,
+                "mahalle_id": 8,
+                "yol_id": 2911,
+                "telefon_no": "-",
+                "kisi": "-",
+                "onemliyerler": "07_mosquee",
+                "geo_durum": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "kentrehberi_poi.fid--2321b301_18f7d336f0d_2f04",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.98875621,
+                    36.54170628
+                ]
+            },
+            "geometry_name": "poly",
+            "properties": {
+                "objectid": "geopoi_91",
+                "adi": "DAMLATAŞ MAĞARASI",
+                "ng_adi": "DAMLATAŞ MAĞARASI DAMLATAŞ MAĞARASI damlataş mağarası Damlataş Mağarası",
+                "aciklama": "-",
+                "category": 367,
+                "ustkod": 27,
+                "faaliyet_adi": "Tarihi Mekan",
+                "ng_faaliyet_adi": "Tarihi Mekan TARİHİ MEKAN tarihi mekan Tarihi Mekan",
+                "icon": "museum_archeological.png",
+                "gizlilik": true,
+                "adres": null,
+                "mahalle_id": 7,
+                "yol_id": null,
+                "telefon_no": "-",
+                "kisi": "-",
+                "onemliyerler": "museum_archeological",
+                "geo_durum": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "kentrehberi_poi.fid--2321b301_18f7d336f0d_2f05",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.97551879,
+                    36.55382676
+                ]
+            },
+            "geometry_name": "poly",
+            "properties": {
+                "objectid": "geopoi_86",
+                "adi": "ALANYA İLÇE EMNİYET MÜDÜRLÜĞÜ",
+                "ng_adi": "ALANYA İLÇE EMNİYET MÜDÜRLÜĞÜ ALANYA İLÇE EMNİYET MÜDÜRLÜĞÜ alanya ilçe emniyet müdürlüğü Alanya Ilçe Emniyet Müdürlüğü",
+                "aciklama": "-",
+                "category": 336,
+                "ustkod": 18,
+                "faaliyet_adi": "Emniyet Müdürlüğü",
+                "ng_faaliyet_adi": "Emniyet Müdürlüğü EMNİYET MÜDÜRLÜĞÜ emniyet müdürlüğü Emniyet Müdürlüğü",
+                "icon": "police_kuyruksuz.png",
+                "gizlilik": true,
+                "adres": null,
+                "mahalle_id": 10,
+                "yol_id": 1533,
+                "telefon_no": "+90 (0242) 511 23 12",
+                "kisi": "-",
+                "onemliyerler": "police_kuyruksuz",
+                "geo_durum": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "kentrehberi_poi.fid--2321b301_18f7d336f0d_2f06",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.97758152,
+                    36.55420296
+                ]
+            },
+            "geometry_name": "poly",
+            "properties": {
+                "objectid": "geopoi_83",
+                "adi": "ALANYA OTOGAR İŞLETMECİLİĞİ",
+                "ng_adi": "ALANYA OTOGAR İŞLETMECİLİĞİ ALANYA OTOGAR İŞLETMECİLİĞİ alanya otogar işletmeciliği Alanya Otogar Işletmeciliği",
+                "aciklama": "-",
+                "category": 291,
+                "ustkod": 4,
+                "faaliyet_adi": "Otogar ",
+                "ng_faaliyet_adi": "Otogar  OTOGAR  otogar  Otogar ",
+                "icon": "bustour.png",
+                "gizlilik": true,
+                "adres": null,
+                "mahalle_id": 10,
+                "yol_id": 1901,
+                "telefon_no": "-",
+                "kisi": "-",
+                "onemliyerler": "bustour",
+                "geo_durum": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "kentrehberi_poi.fid--2321b301_18f7d336f0d_2f07",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.98898362,
+                    36.5445097
+                ]
+            },
+            "geometry_name": "poly",
+            "properties": {
+                "objectid": "geopoi_93",
+                "adi": "ALANYA KÜLTÜR MERKEZİ(TİYATRO MÜD.)",
+                "ng_adi": "ALANYA KÜLTÜR MERKEZİ(TİYATRO MÜD.) ALANYA KÜLTÜR MERKEZİ(TİYATRO MÜD.) alanya kültür merkezi(tiyatro müd.) Alanya Kültür Merkezi(Tiyatro Müd.)",
+                "aciklama": "-",
+                "category": 59,
+                "ustkod": 0,
+                "faaliyet_adi": "Kültürel Tesis",
+                "ng_faaliyet_adi": "Kültürel Tesis KÜLTÜREL TESİS kültürel tesis Kültürel Tesis",
+                "icon": "00_art-museum-2.png",
+                "gizlilik": true,
+                "adres": null,
+                "mahalle_id": 3,
+                "yol_id": 816,
+                "telefon_no": "-",
+                "kisi": "-",
+                "onemliyerler": "00_art-museum-2",
+                "geo_durum": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "kentrehberi_poi.fid--2321b301_18f7d336f0d_2f08",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.99718984,
+                    36.5445812
+                ]
+            },
+            "geometry_name": "poly",
+            "properties": {
+                "objectid": "geopoi_265",
+                "adi": "SİNANLAR CAMİİ",
+                "ng_adi": "SİNANLAR CAMİİ SİNANLAR CAMİİ sinanlar camii Sinanlar Camii",
+                "aciklama": "-",
+                "category": 332,
+                "ustkod": 17,
+                "faaliyet_adi": "Cami",
+                "ng_faaliyet_adi": "Cami CAMİ cami Cami",
+                "icon": "07_mosquee.png",
+                "gizlilik": true,
+                "adres": null,
+                "mahalle_id": 66,
+                "yol_id": 15477,
+                "telefon_no": "-",
+                "kisi": "-",
+                "onemliyerler": "07_mosquee",
+                "geo_durum": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "kentrehberi_poi.fid--2321b301_18f7d336f0d_2f09",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.98874416,
+                    36.54404467
+                ]
+            },
+            "geometry_name": "poly",
+            "properties": {
+                "objectid": "geopoi_92",
+                "adi": "ALANYA MÜZE MÜDÜRLÜĞÜ",
+                "ng_adi": "ALANYA MÜZE MÜDÜRLÜĞÜ ALANYA MÜZE MÜDÜRLÜĞÜ alanya müze müdürlüğü Alanya Müze Müdürlüğü",
+                "aciklama": "-",
+                "category": 324,
+                "ustkod": 13,
+                "faaliyet_adi": "Müzeler",
+                "ng_faaliyet_adi": "Müzeler MÜZELER müzeler Müzeler",
+                "icon": "museum_openair.png",
+                "gizlilik": true,
+                "adres": null,
+                "mahalle_id": 3,
+                "yol_id": 816,
+                "telefon_no": "-",
+                "kisi": "-",
+                "onemliyerler": "museum_openair",
+                "geo_durum": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "kentrehberi_poi.fid--2321b301_18f7d336f0d_2f0a",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.99893287,
+                    36.54552632
+                ]
+            },
+            "geometry_name": "poly",
+            "properties": {
+                "objectid": "geopoi_61",
+                "adi": "BELEDİYE DÜĞÜN SALONU",
+                "ng_adi": "BELEDİYE DÜĞÜN SALONU BELEDİYE DÜĞÜN SALONU belediye düğün salonu Belediye Düğün Salonu",
+                "aciklama": "-",
+                "category": 382,
+                "ustkod": 32,
+                "faaliyet_adi": "Düğün Salonu ",
+                "ng_faaliyet_adi": "Düğün Salonu  DÜĞÜN SALONU  düğün salonu  Düğün Salonu ",
+                "icon": "kentrehberi.png",
+                "gizlilik": true,
+                "adres": null,
+                "mahalle_id": 12,
+                "yol_id": 2373,
+                "telefon_no": "4448207",
+                "kisi": "-",
+                "onemliyerler": "kentrehberi",
+                "geo_durum": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "kentrehberi_poi.fid--2321b301_18f7d336f0d_2f0b",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.97669404,
+                    36.55445374
+                ]
+            },
+            "geometry_name": "poly",
+            "properties": {
+                "objectid": "geopoi_80",
+                "adi": "ALANYA BELEDİYESİ ATIKSU ARITMA TESİSİ",
+                "ng_adi": "ALANYA BELEDİYESİ ATIKSU ARITMA TESİSİ ALANYA BELEDİYESİ ATIKSU ARITMA TESİSİ alanya belediyesi atıksu arıtma tesisi Alanya Belediyesi Atıksu Arıtma Tesisi",
+                "aciklama": "-",
+                "category": 460,
+                "ustkod": 62,
+                "faaliyet_adi": "Diğer Resmi Kurumlar",
+                "ng_faaliyet_adi": "Diğer Resmi Kurumlar DİĞER RESMİ KURUMLAR diğer resmi kurumlar Diğer Resmi Kurumlar",
+                "icon": "kurum.png",
+                "gizlilik": true,
+                "adres": null,
+                "mahalle_id": 10,
+                "yol_id": 11647,
+                "telefon_no": "-",
+                "kisi": "-",
+                "onemliyerler": "kurum",
+                "geo_durum": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "kentrehberi_poi.fid--2321b301_18f7d336f0d_2f0c",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.99512702,
+                    36.54511047
+                ]
+            },
+            "geometry_name": "poly",
+            "properties": {
+                "objectid": "geopoi_97",
+                "adi": "MİLLİ EĞİTİM MÜDÜRLÜĞÜ",
+                "ng_adi": "MİLLİ EĞİTİM MÜDÜRLÜĞÜ MİLLİ EĞİTİM MÜDÜRLÜĞÜ milli eğitim müdürlüğü Milli Eğitim Müdürlüğü",
+                "aciklama": "-",
+                "category": 455,
+                "ustkod": 62,
+                "faaliyet_adi": "Bakanlık ve Yerel Müdürlükler",
+                "ng_faaliyet_adi": "Bakanlık ve Yerel Müdürlükler BAKANLIK VE YEREL MÜDÜRLÜKLER bakanlık ve yerel müdürlükler Bakanlık Ve Yerel Müdürlükler",
+                "icon": "kentrehberi.png",
+                "gizlilik": true,
+                "adres": null,
+                "mahalle_id": 3,
+                "yol_id": 12446,
+                "telefon_no": "-",
+                "kisi": "-",
+                "onemliyerler": "kentrehberi",
+                "geo_durum": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "kentrehberi_poi.fid--2321b301_18f7d336f0d_2f0d",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.99537914,
+                    36.54061241
+                ]
+            },
+            "geometry_name": "poly",
+            "properties": {
+                "objectid": "geopoi_88",
+                "adi": "YENGELİOĞLU CAMİİ",
+                "ng_adi": "YENGELİOĞLU CAMİİ YENGELİOĞLU CAMİİ yengelioğlu camii Yengelioğlu Camii",
+                "aciklama": "-",
+                "category": 332,
+                "ustkod": 17,
+                "faaliyet_adi": "Cami",
+                "ng_faaliyet_adi": "Cami CAMİ cami Cami",
+                "icon": "07_mosquee.png",
+                "gizlilik": true,
+                "adres": null,
+                "mahalle_id": 7,
+                "yol_id": 16268,
+                "telefon_no": "-",
+                "kisi": "-",
+                "onemliyerler": "07_mosquee",
+                "geo_durum": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "kentrehberi_poi.fid--2321b301_18f7d336f0d_2f0e",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.98979393,
+                    36.55320352
+                ]
+            },
+            "geometry_name": "poly",
+            "properties": {
+                "objectid": "geopoi_160",
+                "adi": "SALI PAZARI ",
+                "ng_adi": "SALI PAZARI  SALI PAZARI  salı pazarı  Salı Pazarı ",
+                "aciklama": "-",
+                "category": 348,
+                "ustkod": 21,
+                "faaliyet_adi": "Pazar",
+                "ng_faaliyet_adi": "Pazar PAZAR pazar Pazar",
+                "icon": "02_AVMmall.png",
+                "gizlilik": true,
+                "adres": null,
+                "mahalle_id": 10,
+                "yol_id": 11059,
+                "telefon_no": "-",
+                "kisi": "-",
+                "onemliyerler": "02_AVMmall",
+                "geo_durum": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "kentrehberi_poi.fid--2321b301_18f7d336f0d_2f0f",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.99620837,
+                    36.54666543
+                ]
+            },
+            "geometry_name": "poly",
+            "properties": {
+                "objectid": "geopoi_108",
+                "adi": "BARBAROS AZAKOĞLU ORTAOKULU",
+                "ng_adi": "BARBAROS AZAKOĞLU ORTAOKULU BARBAROS AZAKOĞLU ORTAOKULU barbaros azakoğlu ortaokulu Barbaros Azakoğlu Ortaokulu",
+                "aciklama": "-",
+                "category": 340,
+                "ustkod": 20,
+                "faaliyet_adi": "İlköğretim Okulu",
+                "ng_faaliyet_adi": "İlköğretim Okulu İLKÖĞRETİM OKULU ilköğretim okulu Ilköğretim Okulu",
+                "icon": "highschool.png",
+                "gizlilik": true,
+                "adres": null,
+                "mahalle_id": 66,
+                "yol_id": 15477,
+                "telefon_no": "-",
+                "kisi": "-",
+                "onemliyerler": "highschool",
+                "geo_durum": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "kentrehberi_poi.fid--2321b301_18f7d336f0d_2f10",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.9799082,
+                    36.55547869
+                ]
+            },
+            "geometry_name": "poly",
+            "properties": {
+                "objectid": "geopoi_135",
+                "adi": "SEMA ERAY ERDEM ORTAOKULU",
+                "ng_adi": "SEMA ERAY ERDEM ORTAOKULU SEMA ERAY ERDEM ORTAOKULU sema eray erdem ortaokulu Sema Eray Erdem Ortaokulu",
+                "aciklama": "-",
+                "category": 340,
+                "ustkod": 20,
+                "faaliyet_adi": "İlköğretim Okulu",
+                "ng_faaliyet_adi": "İlköğretim Okulu İLKÖĞRETİM OKULU ilköğretim okulu Ilköğretim Okulu",
+                "icon": "highschool.png",
+                "gizlilik": true,
+                "adres": null,
+                "mahalle_id": 10,
+                "yol_id": 10580,
+                "telefon_no": "+90 (242)522 39 00",
+                "kisi": "-",
+                "onemliyerler": "highschool",
+                "geo_durum": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "kentrehberi_poi.fid--2321b301_18f7d336f0d_2f11",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.99565152,
+                    36.53498036
+                ]
+            },
+            "geometry_name": "poly",
+            "properties": {
+                "objectid": "geopoi_87",
+                "adi": "ALAADDİN KEYKUBAT ANAOKULU",
+                "ng_adi": "ALAADDİN KEYKUBAT ANAOKULU ALAADDİN KEYKUBAT ANAOKULU alaaddin keykubat anaokulu Alaaddin Keykubat Anaokulu",
+                "aciklama": "-",
+                "category": 344,
+                "ustkod": 20,
+                "faaliyet_adi": "Anaokulu",
+                "ng_faaliyet_adi": "Anaokulu ANAOKULU anaokulu Anaokulu",
+                "icon": "daycare.png",
+                "gizlilik": true,
+                "adres": null,
+                "mahalle_id": 8,
+                "yol_id": 3772,
+                "telefon_no": "0 242 513 19 12",
+                "kisi": "-",
+                "onemliyerler": "daycare",
+                "geo_durum": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "kentrehberi_poi.fid--2321b301_18f7d336f0d_2f12",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.00762199,
+                    36.5528581
+                ]
+            },
+            "geometry_name": "poly",
+            "properties": {
+                "objectid": "geopoi_136",
+                "adi": "AYŞE MELEHAT ERKİN İLKOKULU",
+                "ng_adi": "AYŞE MELEHAT ERKİN İLKOKULU AYŞE MELEHAT ERKİN İLKOKULU ayşe melehat erkin ilkokulu Ayşe Melehat Erkin Ilkokulu",
+                "aciklama": "-",
+                "category": 340,
+                "ustkod": 20,
+                "faaliyet_adi": "İlköğretim Okulu",
+                "ng_faaliyet_adi": "İlköğretim Okulu İLKÖĞRETİM OKULU ilköğretim okulu Ilköğretim Okulu",
+                "icon": "highschool.png",
+                "gizlilik": true,
+                "adres": null,
+                "mahalle_id": 5,
+                "yol_id": 1829,
+                "telefon_no": "-",
+                "kisi": "-",
+                "onemliyerler": "highschool",
+                "geo_durum": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "kentrehberi_poi.fid--2321b301_18f7d336f0d_2f13",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.99621363,
+                    36.54625893
+                ]
+            },
+            "geometry_name": "poly",
+            "properties": {
+                "objectid": "geopoi_107",
+                "adi": "NEZİHAT ABDULLAH DOĞAN İLKOKULU",
+                "ng_adi": "NEZİHAT ABDULLAH DOĞAN İLKOKULU NEZİHAT ABDULLAH DOĞAN İLKOKULU nezihat abdullah doğan ilkokulu Nezihat Abdullah Doğan Ilkokulu",
+                "aciklama": "-",
+                "category": 340,
+                "ustkod": 20,
+                "faaliyet_adi": "İlköğretim Okulu",
+                "ng_faaliyet_adi": "İlköğretim Okulu İLKÖĞRETİM OKULU ilköğretim okulu Ilköğretim Okulu",
+                "icon": "highschool.png",
+                "gizlilik": true,
+                "adres": null,
+                "mahalle_id": 66,
+                "yol_id": 15477,
+                "telefon_no": "-",
+                "kisi": "-",
+                "onemliyerler": "highschool",
+                "geo_durum": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "kentrehberi_poi.fid--2321b301_18f7d336f0d_2f14",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.98052883,
+                    36.55550319
+                ]
+            },
+            "geometry_name": "poly",
+            "properties": {
+                "objectid": "geopoi_140",
+                "adi": "NİMET ALAETTİNOĞLU ANADOLU LİSESİ",
+                "ng_adi": "NİMET ALAETTİNOĞLU ANADOLU LİSESİ NİMET ALAETTİNOĞLU ANADOLU LİSESİ nimet alaettinoğlu anadolu lisesi Nimet Alaettinoğlu Anadolu Lisesi",
+                "aciklama": "-",
+                "category": 341,
+                "ustkod": 20,
+                "faaliyet_adi": "Lise",
+                "ng_faaliyet_adi": "Lise LİSE lise Lise",
+                "icon": "highschool.png",
+                "gizlilik": true,
+                "adres": null,
+                "mahalle_id": 10,
+                "yol_id": 12774,
+                "telefon_no": "+90 (242) 522 22 08",
+                "kisi": "-",
+                "onemliyerler": "highschool",
+                "geo_durum": true
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "kentrehberi_poi.fid--2321b301_18f7d336f0d_2f15",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.00399833,
+                    36.55372343
+                ]
+            },
+            "geometry_name": "poly",
+            "properties": {
+                "objectid": "geopoi_139",
+                "adi": "ÇOCUK ŞUBE KARAKOLU",
+                "ng_adi": "ÇOCUK ŞUBE KARAKOLU ÇOCUK ŞUBE KARAKOLU çocuk şube karakolu Çocuk Şube Karakolu",
+                "aciklama": "-",
+                "category": 335,
+                "ustkod": 18,
+                "faaliyet_adi": "Karakol",
+                "ng_faaliyet_adi": "Karakol KARAKOL karakol Karakol",
+                "icon": "police_kuyruksuz.png",
+                "gizlilik": true,
+                "adres": null,
+                "mahalle_id": 5,
+                "yol_id": 2200,
+                "telefon_no": "-",
+                "kisi": "-",
+                "onemliyerler": "police_kuyruksuz",
+                "geo_durum": true
+            }
+        }
+    ],
+    "totalFeatures": 568,
+    "numberMatched": 568,
+    "numberReturned": 50,
+    "timeStamp": "2024-05-16T19:42:29.411Z",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    }
+}

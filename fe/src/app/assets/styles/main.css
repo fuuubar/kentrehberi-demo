@@ -1,0 +1,14 @@
+html {
+    width: 100%;
+    background-color: #b4bded;
+}
+
+html,
+body {
+    height: 100%;
+    overflow: hidden;
+}
+
+body {
+    margin: 1vh 0.5vw;
+}
